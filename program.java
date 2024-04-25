@@ -98,7 +98,7 @@ public class program {
             mult = arr[i] * mult;
         }
 
-        System.out.println("Shumzimi: " + sum);
+        System.out.println("Shumzimi: " + mult);
 
         //Shumzimi me kusht qe te shumzohen krejt elementet veq te fundit
 
@@ -113,7 +113,7 @@ public class program {
             }
         }
 
-        System.out.println("Shumzimi: " + sum2);
+        System.out.println("Shumzimi: " + mult2);
 
         //DETYRA 9 QYSH MI THIRR METODAT
         System.out.println(numri());
