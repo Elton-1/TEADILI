@@ -105,7 +105,7 @@ public class program {
         //Vargu
         int[] arr4 = {1, 2, 3, 4, 5};
 
-        //Variabla qe mbledhet:
+        //Variabla qe shumzon:
         int mult2 = 1;
         for(int i = 0; i < arr4.length; i++){
             if(i < arr4.length - 1){
