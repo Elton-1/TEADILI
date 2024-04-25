@@ -106,7 +106,7 @@ public class program {
         int[] arr4 = {1, 2, 3, 4, 5};
 
         //Variabla qe mbledhet:
-        int mult2 = 0;
+        int mult2 = 1;
         for(int i = 0; i < arr4.length; i++){
             if(i < arr4.length - 1){
                 mult2 = arr[i] * mult2;
